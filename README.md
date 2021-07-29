@@ -1,6 +1,6 @@
  - 🙋🏾‍♀️ Hi, I’m Tatiana
  - 👀 I’m interested in technology, cat memes and glitter
- - 🌱 I’m currently learning Bussines Intelligence 
+ - 🌱 I’m currently learning Bussines Intelligence and Front-end
  - 📫 How to reach me https://www.linkedin.com/in/tatiims/
 
 <!---

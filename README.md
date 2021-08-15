@@ -1,4 +1,4 @@
- - 🙋🏾‍♀️ HI, pode me chamar de Tati
+ - 🙋🏾‍♀️ Hi, pode me chamar de Tati
  - ✨ Gosto de tecnologia, memes de gatos e glitter
  - 💻Estou estudando Data Analytics e Front-end
  - 📫 Como me encontrar https://www.linkedin.com/in/tatiims/

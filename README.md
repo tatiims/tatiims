@@ -1,6 +1,6 @@
  - 🙋🏾‍♀️ Hi, pode me chamar de Tati
  - ✨ Gosto de tecnologia, memes de gatos e glitter
- - 💻Estou estudando Data Analytics e Front-end
+ - 💻Estou estudando Data Analytics 
  - 📫 Como me encontrar https://www.linkedin.com/in/tatiims/
 
 <!---

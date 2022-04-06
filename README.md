@@ -1,5 +1,5 @@
  - 🙋🏾‍♀️ Olá! Tudo bem? Pode me chamar de Tati
- - ✨  Sou criativa, curiosa e apaixonada por novos saberes com verdadeiras trocas e conexões.
+ - ✨ Criativa, curiosa e apaixonada por novos saberes com verdadeiras trocas e conexões.
  - 💻Análise de Dados | BI  
  - 📫 Como me encontrar https://www.linkedin.com/in/tatiims/
 

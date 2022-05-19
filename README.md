@@ -1,7 +1,7 @@
  - 🙋🏾‍♀️ Olá! Tudo bem? Pode me chamar de Tati
  - 🎲 Criativa, curiosa e apaixonada pelo mundo dos dados 
  - 💻 BI | Data Analysis
- - 📫 Como me encontrar: https://www.linkedin.com/in/tatiims/ 
+ - 📫 Como me encontrar: https://www.linkedin.com/in/tatiims/ |
  https://www.kaggle.com/tatiims
 
 <!---

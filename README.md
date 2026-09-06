@@ -10,7 +10,7 @@ Histórico prático focado em **automação de rotinas**, **otimização de perf
 
 ### 🛠️ Linguagens, Ferramentas & Tecnologias
 
-![SQL](https://img.shields.io/badge/SQL-Avançado-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Pandas%20%2F%20NumPy-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboards-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Cloud_DW-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)

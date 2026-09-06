@@ -1,4 +1,4 @@
-# Olá, eu sou a Tatiana Martins 🙋🏾‍♀️
+# Olá, eu sou a Tatiana Martins ✨💻🙋🏾‍♀️
 
 ### Analista de Dados | Business Intelligence
 
